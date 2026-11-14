@@ -1,4 +1,4 @@
-<h1 align="center">Elizandro Duran</h1>
+<h1 align="center">Hi There 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=520&lines=Software+Engineer+%E2%80%A2+Cybersecurity;Building+Reliable+and+Secure+Systems" alt="Typing subtitle" />
 </p>
