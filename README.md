@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E1C,100:D8CBB3&height=120&section=header" width="100%" alt="" />
 
+<h1 align="center">Hey There 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=D8CBB3&background=1E1E1C&center=true&vCenter=true&width=520&height=40&lines=Software+Engineer+%E2%80%A2+Cybersecurity;Building+Reliable+and+Secure+Systems" alt="Typing subtitle" />
 </p>
@@ -15,6 +16,8 @@
   <img src="https://img.shields.io/badge/Software_Engineering-2A6F6B?style=for-the-badge" alt="Software Engineering" />&nbsp;
   <img src="https://img.shields.io/badge/DevOps-2A6F6B?style=for-the-badge" alt="DevOps" />
 </p>
+
+<p align="center">🌱 Currently learning <b>Rust</b></p>
 
 <hr />
 
