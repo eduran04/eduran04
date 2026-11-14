@@ -1,18 +1,15 @@
-<h1 align="center">Hi There 👋</h1>
-
+<h1 align="center">Elizandro Duran</h1>
 <p align="center">
-  <b>Software Engineer · Application Security · Embedded Systems</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=520&lines=Software+Engineer+%E2%80%A2+Cybersecurity;Building+Reliable+and+Secure+Systems" alt="Typing subtitle" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge" alt="CompTIA Security+"/>
+  <a href="https://elizandroduran.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/eduran04" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge" alt="CompTIA Security+" />
 </p>
 
-<p align="center">
-  🌱 Currently learning Rust &nbsp;·&nbsp; 🌐 <a href="https://elizandroduran.com">elizandroduran.com</a>
-</p>
-
----
+<hr />
 
 ## 🛠️ Tech Stack
 
@@ -30,3 +27,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,jenkins,ansible&theme=dark" alt="Cloud, infrastructure and tools"/>
 </p>
+
+<hr />
