@@ -17,8 +17,7 @@
 
 ## About
 
-- Computer science student focused on embedded security and software engineering
-- Based in Colorado, United States
+- Computer Science student focused on Embedded Security and Software Engineering
 - Currently learning **Rust**
 
 ## Tech Stack
