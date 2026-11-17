@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E1C,100:D8CBB3&height=120&section=header" width="100%" alt="" />
 
-<p align="center">
-  <img src="assets/hello.svg" width="560" alt="Hello" />
-</p>
-
 <h3 align="center">Elizandro Duran</h3>
 
 <p align="center">
