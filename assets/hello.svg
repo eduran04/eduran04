@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="250" viewBox="0 0 640 250" role="img" aria-label="Hello">
   <rect width="640" height="250" rx="8" fill="#1E1E1C"/>
-  <g transform="translate(30 0)" font-family="Fira Code, Consolas, Menlo, monospace" font-size="16" fill="#D8CBB3" style="white-space:pre" xml:space="preserve">
+  <g font-family="Fira Code, Consolas, Menlo, monospace" font-size="16" fill="#D8CBB3" style="white-space:pre" xml:space="preserve">
     <text x="22" y="36" textLength="596" lengthAdjust="spacing" xml:space="preserve">     ___           ___           ___       ___       ___      </text>
     <text x="22" y="54" textLength="596" lengthAdjust="spacing" xml:space="preserve">    /\__\         /\  \         /\__\     /\__\     /\  \     </text>
     <text x="22" y="72" textLength="596" lengthAdjust="spacing" xml:space="preserve">   /:/  /        /::\  \       /:/  /    /:/  /    /::\  \    </text>
